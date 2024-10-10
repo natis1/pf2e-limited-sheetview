@@ -13,10 +13,10 @@
         "scripts/main.js"
     ],
     "compatibility": {
-        "minimum": "10.291",
-        "verified": "10"
+        "minimum": "12.331",
+        "verified": "12"
     },
-    "version": "1.0",
+    "version": "1.1",
     "manifestPlusVersion": "1.2.0",
     "url": "https://github.com/natis1/pf2e-limited-sheetview",
     "readme": "https://github.com/natis1/pf2e-limited-sheetview/blob/master/README.md",
