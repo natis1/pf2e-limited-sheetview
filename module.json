@@ -21,7 +21,7 @@
     "url": "https://github.com/natis1/pf2e-limited-sheetview",
     "readme": "https://github.com/natis1/pf2e-limited-sheetview/blob/master/README.md",
     "manifest": "https://raw.githubusercontent.com/natis1/pf2e-limited-sheetview/master/module.json",
-    "download": "https://github.com/natis1/pf2e-limited-sheetview/releases/download/1.0.0/module.zip",
+    "download": "https://github.com/natis1/pf2e-limited-sheetview/releases/download/1.1.1/module.zip",
     "changelog": "https://github.com/natis1/pf2e-limited-sheetview/blob/master/CHANGELOG.md",
     "bugs": "https://github.com/natis1/pf2e-limited-sheetview/issues",
     "socket": true,
